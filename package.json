@@ -1,0 +1,21 @@
+{
+  "name": "retro-quiz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next dev",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.1.0",
+    "@/components/ui/card": "*",
+    "@/components/ui/button": "*",
+    "@/components/ui/input": "*",
+    "lucide-react": "^0.263.1",
+    "tailwindcss": "^3.3.0"
+  }
+}
